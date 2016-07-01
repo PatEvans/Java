@@ -1,0 +1,5 @@
+-Calculator allows user to input maths basic maths problems in standard syntax
+-e.g. 5+5 on a single line rather than clunky inputs for each number and arithmetic operator
+-Supports multiplication , division, addition, subtraction, indices
+-Only allows for two numbers and a single operator
+-Basic checks ensures a valid calculation inputted e.g. check only a single operator used
