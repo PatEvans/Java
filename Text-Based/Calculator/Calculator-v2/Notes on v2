@@ -1,0 +1,6 @@
+-New algorithm made to add support for any number of numbers in an input while previous version only supported 2
+-E.g. now can do 12+12+12+12+12 while last version could only do 12+12
+-Simplified code
+-Each input must only use a single type of arithmetic operator e.g. +,-,/,*
+
+-Needs order of operations algorithm to allow mixing of opperators.
