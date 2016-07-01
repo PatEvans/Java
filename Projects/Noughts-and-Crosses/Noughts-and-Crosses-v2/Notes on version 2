@@ -1,0 +1,11 @@
+-All features are retained from previous version
+-New version has a gui implemented using java swing
+-2DGraphics used to draw a board on the JPanel
+-This board changes colour based on which player's turn it is
+-As with previous version an input of cartesian like coordinates is used to determine where on the board a piece will go. 
+ In this case, a dropdown menu used. 
+-A dropdown menu removes the need for range or data type validation - this is removed in this version
+-Reset button added
+-Scoreboard can be seen during play in this version - in previous version players had to wait until the end of the game
+ 
+ 
