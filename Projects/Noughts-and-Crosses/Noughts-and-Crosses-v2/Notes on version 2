@@ -7,5 +7,7 @@
 -A dropdown menu removes the need for range or data type validation - this is removed in this version
 -Reset button added
 -Scoreboard can be seen during play in this version - in previous version players had to wait until the end of the game
+
+-Improvements for next version: rather than coordinate based input - user should be able to click on each square
  
  
