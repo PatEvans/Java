@@ -1,0 +1,6 @@
+-Text based noughts and crosses game
+-Allows cartesian like coordinates to be input for each turn
+-Algorithm used to check if a win or draw has occurred
+-Winner determined and scoreboard shown after each win or draw
+
+-A gui should be implemented in next version 
