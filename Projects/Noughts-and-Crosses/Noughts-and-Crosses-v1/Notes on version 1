@@ -1,6 +1,8 @@
 -Text based noughts and crosses game
 -Allows cartesian like coordinates to be input for each turn
 -Algorithm used to check if a win or draw has occurred
+-Error checking used to ensure that a piece can not be overwritten on the board. 
+-I.e if a cross is in square 1,1 , noughts choosng 1,1 would give an error
 -Winner determined and scoreboard shown after each win or draw
 
 -A gui should be implemented in next version 
