@@ -1,0 +1,8 @@
+-Changed game mechanics using same physics as the previous version
+-Introduced collision - if counter hits the edge of the screen, velocity reversed - elastically.
+
+-Now points are gained depending on which region the counter lands in
+-Two players - red and blue
+-Player with highest number of points at the end wins
+-Option shown at start between best of three and best of five - panel resizes
+-Scoreboard panel introudced
