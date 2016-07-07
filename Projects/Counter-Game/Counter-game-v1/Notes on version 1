@@ -1,0 +1,6 @@
+-Game using swing and Graphics2D
+-Used keyListener to complete an action when space bar is pressed
+-An arrow is used to show the magnitude of the force that will be exerted on the counter
+-Approximation of friction applied to counter
+
+-Very simple game mechanic - if the counter stops inside the purple region, a message is shown showing a win.
