@@ -1,0 +1,6 @@
+-Modified ui to make the program simpler to use
+-Rather than a coordinate based input method, the user can now click on each position on the grid to choose move
+-Retained checks
+-Colour coded pieces
+-Mouse hover changes border colour
+
